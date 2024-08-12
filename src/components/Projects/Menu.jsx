@@ -30,28 +30,13 @@ const Menu = [
   },
   {
     id: 3,
-    url: "https://github.com/HeyItsMeBJ/miniBlog_react_appwrite",
+    url: "https://minib.vercel.app/",
     image: project3,
     title: "MINI Blog Site | React Js + TailwindCSS + Appwrite",
     category: "Frontend",
   },
 
-  // ,
-  // {
-  //   id: 5,
-  //   url: "https://github.com/horcruxxxx/CLOAK-OF-INVISIBILITY",
-  //   image: Work6,
-  //   title: "Cloack Of invisibility | Python + Image Processing + OpenCV",
-  //   category: "Others",
-  // },
-  // ,
-  // {
-  //   id: 6,
-  //   url: "https://github.com/horcruxxxx/ADRIXUS",
-  //   image: project6,
-  //   title: "A full Stack User Dashboard Using React.js, Node.js, MongoDB.",
-  //   category: "Full Stack",
-  // },
+ 
 ];
 
 export default Menu;
