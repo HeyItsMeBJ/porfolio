@@ -14,7 +14,7 @@ const Menu = [
   },
   {
     id: 1,
-    url: "https://github.com/HeyItsMeBJ/aviator_frontend",
+    url: "https://github.com/HeyItsMeBJ/Aviator",
     image: project1,
     title:
       "Aviator | Real-time game mechanics, user auth, and secure betting | MERN Stack",
