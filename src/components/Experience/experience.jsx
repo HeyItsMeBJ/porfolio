@@ -45,22 +45,22 @@ export default function Experience() {
               borderRadius: "50%",
             }}
           ></img>
-          <h3 className="experience__title">Freelancing</h3>
+          <h3 className="experience__title">Web Developer Intern</h3>
           <h4 className="subtitle">Indo Web Agencies</h4>
           <ul>
             <li className="experience__description">
-              • Make a MERN Stack project Aviator.
+              • Delivered Freelance projects using React, Express, and MongoDB.
             </li>
             <li className="experience__description">
-              • Real-time game mechanics, user auth, and secure betting .
+              • Working on server-side development tasks like database management & API handling.
             </li>
             <li className="experience__description">
-              • Secure database, and scalable architecture for
-              growth.
+              • Ensuring client satisfaction, maintaining open communication, and incorporating feedback to tailor solutions that meet
+their needs.
             </li>
             <li>
-              • Mobile compatibility, leaderboards and achievements to enhance
-              user engagement.
+              •  Identifying and resolving any technical issues or bugs that arise during the
+development process.
             </li>
           </ul>
         </div>
